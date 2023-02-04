@@ -70,7 +70,7 @@ document.querySelector('.check').addEventListener
             }
             //----------------when the niumber of time exceded-----------------------
             else {
-                document.querySelector('.message').textContent = 'You loose';
+                document.querySelector('.message').textContent = 'You loose the game';
             }
         }
     });
